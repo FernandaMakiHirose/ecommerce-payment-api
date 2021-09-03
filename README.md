@@ -6,6 +6,9 @@ Neste projeto desenvolvi o backend de uma solução de e-commerce com a arquitet
 - Docker
 - IDE
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Acesse as outras partes do projeto
 - [Checkout](https://github.com/FernandaMakiHirose/ecommerce-checkout-api)
 - [Frontend](https://github.com/FernandaMakiHirose/ecommerce-checkout-frontend)
